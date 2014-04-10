@@ -1,0 +1,87 @@
+set name := "akka-chat-sample"
+session save
+exit
+refresh
+eclipse
+help
+sbt eclipse
+eclipse
+eclp
+exit
+eclipse
+exit
+eclipse
+sbt eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+compile
+exit
+compile
+help -encoding
+-encoding
+encoding
+help
+exit
+compile
+eclipse
+compile
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+clean
+compile
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+compile
+eclipse
+exit
+eclipse
+compile
+exit
+clean
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+help
+runMain ServiceRunnerTest
+runMain sample.chat.ServiceRunnerTest
+scala
+runMain sample.chat.ServiceRunnerTest
+runMain sample.chat.ClientRunner
+sbt console
+exit

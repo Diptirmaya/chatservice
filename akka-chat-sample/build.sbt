@@ -10,5 +10,4 @@ libraryDependencies ++= Seq(
   "se.scalablesolutions.akka" % "akka-remote" % "1.2"
 )
 
-
-  scalacOptions ++= Seq("-encoding", "UTF-8")
+ scalacOptions ++= Seq("-encoding", "UTF-8")
